@@ -1,6 +1,7 @@
-greeting = ("Hello World")
-fav_num = 7
-print(fav_num*2)
+greeting = "hello world"
 
-num_string = "5"
-print(num_string * 5)
+fav_num = 7
+
+PI = 3.14
+
+A1_variable 
